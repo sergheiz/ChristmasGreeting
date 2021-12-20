@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weihnachtsgrüße</string>
+
+    <string name="friend">Schöne Grüße!</string>
+    <string-array name="greetingsList">
+        <item>Das Fest der Weihnacht steht vor der Tür. Zu diesem Anlass wünsche ich Dir alles Liebe der Welt, Wärme und immer eine geliebte Person an deiner Seite.</item>
+        <item>Jetzt wünsche ich Dir von Herzen ein heiteres Weihnachtsfest sowie viel Zuversicht und Energie für das kommende Jahr.</item>
+        <item>Jetzt wünsche ich Dir von Herzen ein heiteres Weihnachtsfest sowie viel Zuversicht und Energie für das kommende Jahr.</item>
+        <item>In der dunklen Jahreszeit bist Du mit deiner Güte und Deiner Lebensfreude ein wahrer Lichtblick. Behalte Dir diese Art. Frohe Weihnachten!</item>
+        <item>Nutze das Weihnachtsfest, um Dich mit Deinen Lieben zu umgeben, Sorgen zu vergessen, Streitigkeiten zu verzeihen und Liebe zu empfinden.</item>
+        <item>Nutze das Weihnachtsfest, um Dich mit Deinen Lieben zu umgeben, Sorgen zu vergessen, Streitigkeiten zu verzeihen und Liebe zu empfinden.</item>
+        <item>Jetzt leuchten die Kerzen überall. Deshalb ich wünsche Dir, dass deren Wärme und Geborgenheit Dich durch das gesamte Jahr begleitet.</item>
+        <item>Jetzt leuchten die Kerzen überall. Deshalb ich wünsche Dir, dass deren Wärme und Geborgenheit Dich durch das gesamte Jahr begleitet.</item>
+        <item>Zu Weihnachten möchte ich die Gelegenheit nutzen, um Dir für Deine Liebe und den festen Halt zu danken, den Du mir zu jeder Zeit gibst.</item>
+        <item>Zu Weihnachten wünsche ich Euch angenehme Mußestunden und viele neue Ideen für das kommende Jahr! Viele Grüße nach..</item>
+        <item>Zu Weihnachten wünsche ich Euch angenehme Mußestunden und viele neue Ideen für das kommende Jahr! Viele Grüße nach..</item>
+        <item>Zum Fest der Liebe wollen wir Euch nur die schönsten und fröhlichsten Weihnachtsgrüße schicken. Genießt diese zauberhafte Zeit.</item>
+        <item>Zum Fest der Liebe wollen wir Euch nur die schönsten und fröhlichsten Weihnachtsgrüße schicken. Genießt diese zauberhafte Zeit.</item>
+        <item>Wir wünschen Dir die Ruhe, all die Hektik hinter Dir zu lassen und Weihnachten als besinnliche Zeit mit der Familie zu verbringen.</item>
+        <item>Wir wünschen Ihnen und Ihrem gesamten Team eine frohe Weihnachtszeit und besinnliche Tage.</item>
+        <item>Wir wünschen Ihnen und Ihrem gesamten Team eine frohe Weihnachtszeit und besinnliche Tage.</item>
+        <item>Zum Weihnachtsfest wünsche ich Dir viel Erholung, Gesundheit und über den Jahreswechsel hinaus anhaltende Freude.</item>
+        <item>Zum Weihnachtsfest wünsche ich Dir viel Erholung, Gesundheit und über den Jahreswechsel hinaus anhaltende Freude.</item>
+        <item>An Weihnachten geht es um Beziehungen. Die wahren Geschenke sind Gefühle, Erinnerungen und gemeinsame Zeit. Dafür danke ich Dir von Herzen!</item>
+        <item>Weihnachtliche Freude und ein erfolgreiches Neues Jahr!</item>
+        <item>Besinnliche Stunden unterm leuchtenden Baum, für viele Leute ist das der Traum. Bei vielen reicht’s nur noch für’n Bier, denn sie leben leider von Hartz 4</item>
+        <item>Besinnliche Stunden unterm leuchtenden Baum, für viele Leute ist das der Traum. Bei vielen reicht’s nur noch für’n Bier, denn sie leben leider von Hartz 4</item>
+        <item>Ich wünsche euch ein frohes Weihnachtsfest, und dass ihr nicht meine Lebkuchen esst!</item>
+        <item>Ich wünsche euch ein frohes Weihnachtsfest, und dass ihr nicht meine Lebkuchen esst!</item>
+        <item>Weihnachten heißt Essen, Weihnachten heißt Trinken, Weihnachten heißt, in der Couch versinken.</item>
+        <item>Weihnachten heißt Essen, Weihnachten heißt Trinken, Weihnachten heißt, in der Couch versinken.</item>
+        <item>Stille Nacht, heilige Nacht, mit vielen herzlichen und weihnachtlichen Grüßen hab ich Dich bedacht.</item>
+        <item>Stille Nacht, heilige Nacht, mit vielen herzlichen und weihnachtlichen Grüßen hab ich Dich bedacht.</item>
+        <item>Wir wünschen frohe Festtage, Zeit zur Entspannung, Besinnung auf die wirklich wichtigen Dinge und dazu viele Lichtblicke im kommenden Jahr.</item>
+        <item>Wir wünschen frohe Festtage, Zeit zur Entspannung, Besinnung auf die wirklich wichtigen Dinge und dazu viele Lichtblicke im kommenden Jahr.</item>
+        <item>Ich wünsche frohe Feiertage, das ist doch klar und ohne Frage. Bei Tannenduft und Kerzenschein, möge alles friedlich sein!</item>
+        <item>Ich wünsche frohe Feiertage, das ist doch klar und ohne Frage. Bei Tannenduft und Kerzenschein, möge alles friedlich sein!</item>
+        <item>Am Himmel leuchten die Sterne so hell und so klar, ich wünsch dir ein frohes Fest und ein gutes neues Jahr!</item>
+        <item>Am Himmel leuchten die Sterne so hell und so klar, ich wünsch dir ein frohes Fest und ein gutes neues Jahr!</item>
+        <item>Besinnliche Weihnachtsfeiertage und alle guten Wünsche für ein gesundes und erfolgreiches neues Jahr wünschen von Herzen…</item>
+        <item>Besinnliche Weihnachtsfeiertage und alle guten Wünsche für ein gesundes und erfolgreiches neues Jahr wünschen von Herzen…</item>
+        <item>Festliche, helle Tage wünschen wir ganz besonders zur Weihnachtszeit.</item>
+        <item>Festliche, helle Tage wünschen wir ganz besonders zur Weihnachtszeit.</item>
+        <item>Die Arbeit ruht, es ist so weit. Für alle ist nun Weihnachtszeit.</item>
+        <item>Die Arbeit ruht, es ist so weit. Für alle ist nun Weihnachtszeit.</item>
+        <item>Ich wünsche dir, dass dein Weihnachtsfest voller Freude und Liebe ist und das neue Jahr nur positive Überraschungen bringt! Alles Gute zur Weihnachtszeit!</item>
+        <item>Weihnacht: Nächte heller Kerzen und der Kinderseligkeit! Und so wünsche ich von ganzem Herzen eine strahlend-schöne, besinnliche Zeit!</item>
+        <item>Weihnacht: Nächte heller Kerzen und der Kinderseligkeit! Und so wünsche ich von ganzem Herzen eine strahlend-schöne, besinnliche Zeit!</item>
+        <item>Ich werde Weihnachten in meinem Herzen ehren und versuchen, es das ganze Jahr hindurch aufzuheben.</item>
+        <item>Wird’s besser? Wird’s schlimmer? fragt man alljährlich. Seien wir ehrlich: Leben ist immer lebensgefährlich!</item>
+        <item>Oh, wie ist es schön, wenn Weihnachten ist! Ich wünschte nur, dass ein wenig öfter Weihnachten wäre.”</item>
+        <item>Tausende von Kerzen kann man am Licht einer Kerze anzünden, ohne dass ihr Licht schwächer wird. Freude nimmt nicht ab wenn sie geteilt wird.</item>
+        <item>Ich wünsche euch, dass Gott, der Hoffnung schenkt, euch in eurem Glauben mit großer Freude und vollkommenem Frieden erfüllt</item>
+    </string-array>
+
+</resources>

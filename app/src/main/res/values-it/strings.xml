@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auguri di Natale</string>
+
+    <string name="friend">Saluti!</string>
+    <string-array name="greetingsList">
+        <item>Che la dolce magia del Natale sia sempre con te.</item>
+        <item>Tantissimi auguri! Che il Natale possa portare nella vostra casa armonia, pace e serenità!</item>
+        <item>Lasciate che la magia del Natale pervada le vostre anime, accendendo lamore nei vostri cuori. Buon Natale!</item>
+        <item>Auguro a te e famiglia una felice festa di Natale.</item>
+        <item>Buon Natale e un augurio di buona salute e tanta felicità!</item>
+        <item>A te e famiglia auguro gioia, amore e felicità, buon Natale!</item>
+        <item>Le cose più belle della vita non si trovano sotto l’albero, ma nelle persone che ti stanno vicino nei momenti speciali. Buon Natale!</item>
+        <item>Che la gioia del Natale scaldi il cuore a te e famiglia. Auguri!</item>
+        <item>Possa lo scintillio e la gioia del Natale riempire il tuo cuore. Ti auguro delle feste ricche di amore e felicità!</item>
+        <item>Ti abbraccio e ti auguro di trovare sotto lalbero tanta gioia, felicità e amore. Che sia un Natale unico ed indimenticabile. Auguri di buon Natale!</item>
+        <item>Gli auguri di Natale più sinceri sono quelli fatti con il cuore, proprio come quelli che rivolgo a te e famiglia! Buone feste!</item>
+        <item>Le renne di Babbo Natale stanno volando e arrivando da te e famiglia per augurarti un Buon Natale… speriamo che non sbaglino strada!</item>
+        <item>Ti auguro di provare emozioni vere e tanta gioia nel cuore, perché questo è il Natale! Tanti Auguri!</item>
+        <item>Non ho la barba e il vestito rosso, ma un dono te lo mando lo stesso. Buon Natale!</item>
+        <item>Per questo Natale spero che tu possa trovare tanti sorrisi nei pacchi che ora scintillano sotto lalbero.</item>
+        <item>Auguro a te e la tua famiglia una giornata splendida e delle feste meravigliose.</item>
+        <item>Il Natale lo si sente nel cuore e solo con il cuore possiamo trasmetterne la vera magia! Tanti auguri!</item>
+        <item>Diffida di chi dice che non vuole regali per Natale: è colui che li aspetta più di tutti.</item>
+        <item>Natale è arrivato. Possa la tua casa essere piena di risate, felicità, armonia, pace e amore. Buone feste!</item>
+        <item>Questo Natale fatti il migliore regalo possibile: rimani come sei!</item>
+        <item>Possa questa festa darti nuova speranza e nuovi sogni da inseguire. Buon Natale!</item>
+        <item>In questo giorno di gioia e di festa, bisogna essere tutti più buoni e tolleranti. Fai come me: invia un messaggio di auguri a un amico sfigato!</item>
+        <item>Con te al mio fianco sarà il più bel Natale di sempre! Tanti affettuosissimi auguri!</item>
+        <item>Buon Natale e Felice Anno Nuovo!</item>
+        <item>Con la speranza di vivere serenamente ogni momento di questa splendida festa che riaccende il desiderio di condividere e donare auguro buon Natale a Lei e famiglia.</item>
+        <item>Natale è una parola che trasmette felicità solo a pronunciarla. Il più grande augurio che possa farti è che sia Natale ogni giorno!</item>
+        <item>Con te è Natale tutto lanno. Grazie di esserci sempre. Buon Natale!</item>
+        <item>Tanti teneri e affettuosissimi auguri per un Natale meraviglioso!</item>
+        <item>Buon Natale per ogni cosa che troverai sotto l’albero, per ogni sorriso che ti farà star bene, per ogni abbraccio che ti scalderà il cuore. Auguri!</item>
+        <item>Che questo Natale ti porti una montagna di sogni da realizzare. Buon Natale!</item>
+        <item>Regalami un sorriso… e sarà un Natale speciale! Tanti auguri!</item>
+        <item>Un caldo abbraccio… Buon Natale!</item>
+        <item>Vi auguro buon Natale a tutti e vi auguro il meglio, vi auguro di studiare, lavorare, sognare, giocare, avere un maestro! Vi auguro tutto.</item>
+        <item>Possa la tua lista dei desideri diventare realtà. Buon Natale!</item>
+        <item>Ti auguro tutto il meglio che la vita possa dare. Buon Natale!</item>
+        <item>Ogni tuo sorriso accende in cielo una nuova stella. Continua a brillare per sempre, i tuoi sogni sono a portata di mano, realizzali! Tanti auguri di Natale!</item>
+        <item>La felicità è sapere che anche per questo Natale il tuo affetto sarà il regalo migliore! Ti auguro un sereno e felice Natale!</item>
+        <item>Buon Natale, buone feste e una serena ripresa del lavoro… il più tardi possibile!</item>
+        <item>Ti auguro un Natale meraviglioso che sappia portare nella tua casa pace e serenità.</item>
+        <item>Auguro a te a ai tuoi cari la serenità, la forza e l’amore della Famiglia di Nazareth. Buon Natale!</item>
+        <item>Con infinito affetto ti auguro il più bel Natale che tu possa desiderare!</item>
+        <item>Tanti auguri di cuore a te e famiglia… Buon Natale!</item>
+        <item>Che tutti i cuori possano trasformarsi in piccole campane per accompagnare, con una dolce melodia, la nascita di Gesù Bambino. Tanti auguri di buon Natale!</item>
+        <item>Cè sola una cosa più bella di stare con te: stare con te a Natale! Tanti auguri!</item>
+        <item>Il Natale è quel momento in cui hai nostalgia di casa… anche mentre sei a casa.</item>
+        <item>Che tu possa trascorre delle magiche feste… Buon Natale!</item>
+        <item>Un pensiero caloroso a voi alle vostre famiglie… Tanti Auguri di Buon Natale!</item>
+        <item>Latmosfera del Natale è ancora più magica se ne puoi condividere la profondità con le persone che ami. Tanti auguri!</item>
+    </string-array>
+
+</resources>

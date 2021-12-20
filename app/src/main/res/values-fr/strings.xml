@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Salutations de Noël</string>
+
+    <string name="friend">Salut!</string>
+    <string-array name="greetingsList">
+        <item>Joyeux Noël avec beaucoup damour</item>
+        <item>Je te souhaite un Noël magique</item>
+        <item>Joyeuses fêtes à vous et votre famille</item>
+        <item>Joyeuses fêtes</item>
+        <item>Joyeux Noël et bonne année</item>
+        <item>Pour Noël.. joie, espoir et émerveillement.</item>
+        <item>Paix, joie et plaisir pour ce beau Noël</item>
+        <item>Joie, joie et encore joie !</item>
+        <item>Décorez Noël avec de la joie !</item>
+        <item>Je vous souhaite paix, joie et amour !</item>
+        <item>Ho Ho Ho ! Joyeux Noël !</item>
+        <item>Que tous vos vœux deviennent réalités.</item>
+        <item>Tous mes meilleurs vœux pour Noël</item>
+        <item>Cest Noël dans le cœur qui met Noël dans les esprits</item>
+        <item>Joyeuses fêtes et meilleurs vœux pour une bonne année</item>
+        <item>Je tenvoie un câlin des anges en ce jour de Noël.</item>
+        <item>Que ton Noël soit rempli de miracles, petits et grands.</item>
+        <item>Que ton réveillon de Noël soit joyeux et lumineux. En cette journée magique, je fais le souhait que notre amitié reste inchangée à jamais. Joyeux Noël.</item>
+        <item>Que l’esprit de noël vous remplisse le cœur de joie et de bonheur !</item>
+        <item>Noël a une place spéciale dans mon cœur … comme toi !</item>
+        <item>Joyeux Noel ! Que cette année t’apporte le bonheur et la réussite Que tu rencontres le succès dans tes projets et l’accomplissement de tes rêves.</item>
+        <item>Joyeux Noël, bonne et heureuse année ! Que notre amitié illumine cette nouvelle année de tout le plaisir et la joie qu’elle permet de partager !</item>
+        <item>Que cette année vous soit heureuse, que la paix, le repos et la santé vous tiennent lieu de fortune.</item>
+        <item>Saluons ensemble cette nouvelle année qui vieillit notre amitié sans vieillir notre cœur.</item>
+        <item>Noël, la fête qui nous permet d’espérer, de croire et de vivre des moments merveilleux avec ses proches. Joyeux Noël !</item>
+        <item>Je te souhaite de très joyeuses fêtes de fin d’année en famille !</item>
+        <item>Je te souhaite de très joyeuses fêtes de fin d’année en famille !</item>
+        <item>Beaucoup de bonheur pour cette belle fête de fin d’année, joyeux Noël !</item>
+        <item>Beaucoup de bonheur pour cette belle fête de fin d’année, joyeux Noël !</item>
+        <item>Tous nos vœux d’amour, paix, hospitalité, et solidarité pour Noël.</item>
+        <item>Comme tu t’y attends, je te souhaite de joyeuses fêtes de Noël. Profite bien des senteurs du sapin et de la lumière des bougies et sois heureux. Je pense bien à toi!</item>
+        <item>Cette année, je te souhaite un temps de l’Avent comme par le passé: sans stress avant Noël, sans cadeaux inutiles, choisis à la va-vite.</item>
+        <item>Comme tu t’y attends, je te souhaite de joyeuses fêtes de Noël.</item>
+        <item>Puisse ce Noël être pour toi un moment magique où l’esprit et la bonté des gens qui t’entourent apportent en ton cœur tout le réconfort et le bonheur que tu mérites.</item>
+        <item>Que cette journée de Noël vous apporte toute la magie et le bonheur qu’elle recèle. Je vous souhaite le plus féérique des Noël.</item>
+        <item>Pour ce Noël, je te souhaite autant de joie, de bonheur et d’amour qu’il y a d’étoiles dans le ciel un soir d’été, de boules de neige dans ton sapin.</item>
+        <item>Nous vous souhaitons un joyeux Noël, rempli de joie et de passion autour des gens que vous aimez.</item>
+        <item>Que tous les ingrédients d’un Noël réussi s’offrent à vous : chaleur, gaieté, partage, rires, chansons, esprit de famille.</item>
+        <item>Profitez bien de vos familles en ces instants si chaleureux de Noël. Nous pensons fort à vous et vous souhaitons de très belles fêtes.</item>
+        <item>Profite de ce moment magique de Noël pour partager avec tes proches des moments inoubliables. Joyeuses fêtes de Noël !</item>
+        <item>Joyeux Noël de la part de nous tous. En attendant de pouvoir vous revoir, nous voulions partager avec vous les meilleurs moments de notre année.</item>
+        <item>En vous souhaitant de joyeuses fêtes. Avec tous mes vœux de bonheur pour un joyeux Noël.</item>
+        <item>En vous souhaitant de joyeuses fêtes. Avec tous mes vœux de bonheur pour un joyeux Noël.</item>
+        <item>Un petit passage pour vous souhaiter une excellente fête… amusez-vous, profitez-en avec votre famille.</item>
+        <item>Que la paix et la joie de Noël vivent en vos cœurs pendant toute l’année – Joyeux Noël à Tous !</item>
+        <item>Que la paix et la joie de Noël vivent en vos cœurs pendant toute l’année – Joyeux Noël à Tous !</item>
+        <item>Je vous souhaite déjà d’heureuses fêtes avec beaucoup de joie pour vous et vos proches.</item>
+        <item>Voici qu’humblement, Dieu se fait petit enfant, Dieu vient naître parmi nous, Dieu cherche à naître en nous. Joyeux Noël.</item>
+    </string-array>
+
+</resources>

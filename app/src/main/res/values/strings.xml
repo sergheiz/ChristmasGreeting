@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Christmas Greetings</string>
+
+    <string name="friend">Greetings!</string>
+    <string-array name="greetingsList">
+        <item>Merry Christmas! And a Happy New Year!</item>
+        <item>All the way from here, I send a special wish, a holiday hug and a holiday kiss!</item>
+        <item>Sending a smile across the miles for a wonderful Christmas!</item>
+        <item>I may not be nearby, but you are totally in my mind and heart this holiday. Merry Christmas!</item>
+        <item>Wishing you love and light in this challenging season.</item>
+        <item>Wishing you a white Christmas! And when you run out of white, just open a bottle of red! =)</item>
+        <item>Remember, Santa is watching. Everything. Yes, even that. Anyway, Merry Christmas!</item>
+        <item>Merry Christmas! May your happiness be large and your bills be small.</item>
+        <item>Christmas is mostly for children. But we adults can enjoy it too, until the credit card bills arrive.</item>
+        <item>Eat. Drink. Be Merry. Have a wonderful Christmas!</item>
+        <item>Best wishes for a joyous Christmas filled with love, happiness and prosperity!</item>
+        <item>May all that is beautiful, meaningful and brings you joy be yours this holiday season and throughout the coming year!</item>
+        <item>Merry Christmas! Wishing you all the happiness your holiday can hold!</item>
+        <item>May your holidays sparkle with joy and laughter.</item>
+        <item>I hope the magic of Christmas fills every corner of your heart and home with joy — now and always.</item>
+        <item>May your family have a holiday season that is full of wonderful surprises, treats and nonstop laughter.</item>
+        <item>Merry Christmas! Wishing you all the best this holiday season!</item>
+        <item>Happy Holidays! I hope all of your Christmas wishes come true.</item>
+        <item>May the Lord grant you and all your loved ones peace, joy and goodwill.</item>
+        <item>May the true spirit of Christmas shine in your heart and light your path.</item>
+        <item>Wishing you and your loved ones a blessed Christmas.</item>
+        <item>May God bless and keep you during the holiday season and all through the year.</item>
+        <item>May God bless your life with love and joy this holiday season.</item>
+        <item>May the love of Christ and the warmth that comes with this holy season remain with you and make your holidays the best ever!</item>
+        <item>Far apart during this holiday, but totally together in our hearts and minds. Merry Christmas!</item>
+        <item>Today I am far away from all of you, however I have always have you present, especially in such an important date. Merry Christmas!</item>
+        <item>May your holidays be filled with love and rejoice. May you have a great time with your friends and family this Christmas! Sending my best wishes to you.</item>
+        <item>May the festive season bring you opportunities and success in life! Merry Christmas!</item>
+        <item>Thank you for all your hard work this year! Have a wonderful and relaxed Christmas.</item>
+        <item>Wishing you nothing but happiness this holiday season! Merry Christmas from all of us.</item>
+        <item>May your holidays be filled with happiness and good cheer!</item>
+        <item>Thank you for everything! Wishing you a merry Christmas and a Happy New Year.</item>
+        <item>May this season find you among those you love, sharing in the twin glories of generosity and gratitude.</item>
+        <item>May this season be full of light and laughter for you and your family.</item>
+        <item>Merry Christmas, and may all your Christmases be white!</item>
+        <item>It’s people like you that make Christmas so special and meaningful. Thank you!</item>
+        <item>Have a magical holiday season!</item>
+        <item>Wishing you a fun-filled holiday season! </item>
+        <item>Best wishes for a festive holiday season!</item>
+        <item>A silent night, a star above, a blessed gift of hope and love. A blessed Christmas to you</item>
+        <item>May this holy season be full of true miracles and love for you, always.</item>
+        <item>I hope this festive season will bring good luck and good health for you and your family.</item>
+        <item>Sending you the very warm wish of Christmas love!</item>
+        <item>I wish for happiness to surround you and yours this holiday season. May you feel love and joy like never before.</item>
+        <item>May the glow of Christmas candles brighten your day and your heart. Happy Holidays!</item>
+        <item>Wishing you a season full of fun parties, beautiful experiences, soothing challenges, and new memories to create!</item>
+        <item>May all your long-cherished dreams come true this Christmas. With love and warmth of heart, wishing you a Merry Christmas!</item>
+        <item>This Christmas, may you get everything you want and need to fill your home and life with peace and bliss.</item>
+    </string-array>
+
+</resources>

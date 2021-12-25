@@ -3,6 +3,8 @@
 
 [Download latest version 📥](https://github.com/sergheiz/ChristmasGreeting/raw/main/app-debug.apk)
 
+⭐️ Google Play (https://play.google.com/store/apps/details?id=com.sergheiz.christmasgift)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 

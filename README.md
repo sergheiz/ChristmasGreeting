@@ -1,7 +1,7 @@
 # ChristmasGreetings
 🎅 Christmas Greetings across the world! 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇩🇪 🇪🇸 🇫🇷 🇮🇹 🇵🇹 🇷🇺 🇺🇦 🇷🇴 
 
-[Download latest version 📥](https://github.com/sergheiz/ChristmasGreeting/raw/main/app-debug.apk)
+[Download APK 📥](https://github.com/sergheiz/ChristmasGreeting/raw/main/app-debug.apk)
 
 [⭐️ Google Play](https://play.google.com/store/apps/details?id=com.sergheiz.christmasgift)
 
